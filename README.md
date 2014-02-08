@@ -9,9 +9,6 @@ This repository contains several peusocode of python related image processing an
 Software related: 
 
 - python-enthought 
-
 - python-opencv 
-
 - python-spyder
-
 - pythonxy 
