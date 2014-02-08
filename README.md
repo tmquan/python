@@ -1,4 +1,4 @@
-This repository contains several peusocode of python related image processing stuff.
+This repository contains several peusocode of python related image processing and visualization stuffs.
 
 - PIL 
 - opencv-python 
@@ -6,8 +6,8 @@ This repository contains several peusocode of python related image processing st
 - scipy 
 - pyqt4
 
-Software related:
--python-enthought
--python-opencv
--pythonxy
+Software related: 
+-python-enthought 
+-python-opencv 
 -python-spyder
+-pythonxy 
