@@ -7,5 +7,7 @@ This repository contains several peusocode of python related image processing st
 - pyqt4
 
 Software related:
-python-enthought
-python-opencv
+-python-enthought
+-python-opencv
+-pythonxy
+-python-spyder
